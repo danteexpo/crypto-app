@@ -102,6 +102,20 @@ th {
     }
 }
 
+@media screen and (max-width: 390px) {
+    .info {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .info .coin-price {
+        justify-content: flex-start;
+    }
+
+    td,
+    th {
+        padding: 0;
+    }
+}
 
 
 
