@@ -1,14 +1,14 @@
 # Crypto World
 
-Proyecto realizado con [Coin Gecko API](https://www.coingecko.com/en/api), React y Axios.
+Project made with [Coin Gecko API](https://www.coingecko.com/en/api), React and Axios.
 
-## Instalación
+## Installation
 
 ```bash
 npm install
 ```
 
-## Ejecución
+## Start
 
 ```bash
 npm start
